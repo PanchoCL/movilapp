@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contol de puertas</string>
+    <string name="Correo">Correo</string>
+    <string name="Contrasenia">Contraseña</string>
+    <string name="Contrasenia2">Reingrese Contraseña</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Registrate">Crear Cuenta</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnRegistrar">Registrar</string>
+</resources>
